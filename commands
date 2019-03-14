@@ -1,0 +1,6 @@
+git config --global user.email "kumar.saurabh166@gmail.com"
+git config --global user.name "kumar saurabh"
+
+Learn git Part -1:
+
+1) git init
